@@ -13,7 +13,7 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
+<!--
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
@@ -31,7 +31,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Photography"
   description = "10%"
-
+-->
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
